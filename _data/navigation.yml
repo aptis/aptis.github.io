@@ -1,0 +1,20 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: /quick-start-guide/
+  - title: "Visão Geral"
+    url: /about/
+  - title: "Quem somos"
+    url: /who/
+  - title: "Eventos"
+    url: /events/
+  - title: "Projetos"
+    url: /projects/
+  - title: "Publicações"
+    url: /publications/
+  - title: "Arquivos"
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
